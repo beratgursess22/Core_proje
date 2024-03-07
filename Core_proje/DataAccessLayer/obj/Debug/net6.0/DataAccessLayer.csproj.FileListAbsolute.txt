@@ -1,0 +1,17 @@
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\DataAcce.E67BD773.Up2Date
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\dwskopyedek\Core_proje\Core_proje\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
